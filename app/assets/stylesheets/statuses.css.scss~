@@ -11,7 +11,7 @@ margin: 4px 0;
 }
 
 .status.hover {
-background: #FFA996;
+background: #FAFAFA;
 }
 
 .status .admin {
